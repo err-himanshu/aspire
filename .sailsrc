@@ -1,0 +1,14 @@
+{
+  "hooks": {
+      "sockets": false,
+      "pubsub": false,
+      "grunt": false,
+      "orm" : false
+    },
+  "generators": {
+    "modules": {}
+  },
+  "paths": {
+    "public": "assets"
+  }
+}
